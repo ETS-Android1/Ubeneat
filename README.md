@@ -6,7 +6,7 @@ The UI of the website is not pretty because it's my "Hello World" project.
 You can do better UI/UX on the front end. :)
 
 ## Database schema：
-![image](https://github.com/benntust/Ubeneat/schema)
+![image](https://github.com/benntust/Ubeneat/schema.jpg)
 
 ## Function set：  
 #### Customer side:
