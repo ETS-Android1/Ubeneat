@@ -3,7 +3,7 @@
 This project refers to food delivery apps like Uber Eats and foodpanda, and use Java, PHP, and MySQL to develop.
 Ubeneat_app is an android application, and Ubeneat_web is based on the website.
 The UI of the website is not pretty because it's my "Hello World" project.
-You can do better UI/UX on the front end. :)
+You can do better UI/UX on the front end. :&nbsp; )
 
 ## Database schema：
 ![image](https://github.com/benntust/Ubeneat/blob/master/schema.jpg)
