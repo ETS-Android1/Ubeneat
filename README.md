@@ -6,7 +6,7 @@ The UI of the website is not pretty because it's my "Hello World" project.
 You can do better UI/UX on the front end. :&nbsp; )
 
 ## Database schema：
-![image](https://github.com/benntust/Ubeneat/blob/master/schema.jpg)
+![image](https://github.com/benntust/Ubeneat/blob/master/img/schema.jpg)
 
 ## Function set：  
 ### Customer side:
@@ -26,3 +26,4 @@ You can do better UI/UX on the front end. :&nbsp; )
 2. A delivery man can select available orders to pick up. (state2)  
 3. A delivery man reports the status of the orders. (state3~4) 
 ## User interface： 
+![image](https://github.com/benntust/Ubeneat/blob/master/img/UI.jpg)
