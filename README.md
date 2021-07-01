@@ -10,8 +10,8 @@ You can do better UI/UX on the front end. :&nbsp; )
 
 ## Function set：  
 #### Customer side:
-1.  A customer can register/login into system.  
-2.  A customer can order the meals from menu.  
+1. A customer can register/login into system.  
+2. A customer can order the meals from menu.  
 3. A customer can partial search meal by categories, store names, or meal names.  
 4. A customer can delete the previous order before the order is picked up. (state<3)  
 5. A customer can update the previous order before the order is picked up. (state<3)  
