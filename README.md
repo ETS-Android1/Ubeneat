@@ -25,5 +25,5 @@ You can do better UI/UX on the front end. :&nbsp; )
 1. A delivery man can query available orders uncompleted. (state<5)  
 2. A delivery man can select available orders to pick up. (state2)  
 3. A delivery man reports the status of the orders. (state3~4) 
-## User interface： 
+## User interface(website & app)： 
 ![image](https://github.com/benntust/Ubeneat/blob/master/img/UI.jpg)
